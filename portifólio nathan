@@ -7,6 +7,7 @@
     <title>Meu Portifólio</title>
 </head>
 <body>
+<header>
   <img src="img/militar.jfif" alt="Avatar Nathan" srcset="">  
   <p>Eu sou nathan</p>
   <h1>Eu sou um aluno que estuda Programação</h1>
@@ -18,5 +19,6 @@
     <p>JavaScript</p>
     <p>Scratch</p>
 </div>
+</header>
 </body>
 </html>
