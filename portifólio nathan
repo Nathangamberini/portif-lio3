@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+    <title>Meu Portifólio</title>
+</head>
+<body>
+  <img src="img/militar.jfif" alt="Avatar Nathan" srcset="">  
+  <p>Eu sou nathan</p>
+  <h1>Eu sou um aluno que estuda Programação</h1>
+  <p>Eu fiz alguns cursos da area TEI como Progrmação pyton e manutenção e limpeza de maquinas</p>
+<p>Minhas habilidades</p>
+<div>
+    <p>HTML</p>
+    <P>CSS</P>
+    <p>JavaScript</p>
+    <p>Scratch</p>
+</div>
+</body>
+</html>
