@@ -14,12 +14,12 @@
   <h1>Eu sou um aluno que estuda Programação</h1>
   <p>Eu fiz alguns cursos da area TEI como Progrmação pyton e manutenção e limpeza de maquinas</p>
 <p>Minhas habilidades</p>
-<div>
-    <p>HTML</p>
-    <P>CSS</P>
-    <p>JavaScript</p>
-    <p>Scratch</p>
-</div>
-</header>
+    <div>
+    <p class="bg-secondary">HTML</p>
+    <P class="bg-secondary>CSS</P>
+    <p class="bg-secondary>JavaScript</p>
+    <p class="bg-secondary>Scratch</p>
+    </div>
+ </header>
 </body>
 </html>
