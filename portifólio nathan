@@ -6,9 +6,10 @@
   <link rel="stylesheet" href="style.css">
     <title>Meu Portifólio</title>
 </head>
+
 <body>
-<header>
-  <img src="img/militar.jfif" alt="Avatar Nathan" srcset="">  
+<header class="container">
+  <img src="img/militar.jfif" alt="Avatar Nathan" class="rouded-circle" width="150" height="150" srcset="">  
   <p>Eu sou nathan</p>
   <h1>Eu sou um aluno que estuda Programação</h1>
   <p>Eu fiz alguns cursos da area TEI como Progrmação pyton e manutenção e limpeza de maquinas</p>
