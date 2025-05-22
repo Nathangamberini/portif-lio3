@@ -7,6 +7,7 @@
     <title>Meu Portifólio</title>
 </head>
 
+
 <body>
 <header class="container text-center">
   <img src="img/militar.jfif" alt="Avatar Nathan" class="rouded-circle" width="150" height="150" srcset="">  
